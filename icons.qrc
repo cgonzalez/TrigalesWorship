@@ -1,0 +1,22 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>images/application-x-font-ttf.png</file>
+        <file>images/arrow-down.png</file>
+        <file>images/arrow-up.png</file>
+        <file>images/document-edit.png</file>
+        <file>images/document-new.png</file>
+        <file>images/edit-find.png</file>
+        <file>images/fill-color.png</file>
+        <file>images/format-text-color.png</file>
+        <file>images/go-first-view.png</file>
+        <file>images/go-last-view.png</file>
+        <file>images/go-next-view.png</file>
+        <file>images/go-previous-view.png</file>
+        <file>images/imagegallery.png</file>
+        <file>images/insert-image.png</file>
+        <file>images/list-add.png</file>
+        <file>images/list-remove.png</file>
+        <file>images/media-playback-start.png</file>
+        <file>images/media-playback-stop.png</file>
+    </qresource>
+    </RCC>
